@@ -4,11 +4,11 @@
 
 - <b>Bayesian and Frequentist Modeling (PyMC, statsmodels, bambi)</b>
   - [COVID Infection Risk in Households](https://github.com/clementeramos/LABURLΩΩz) 
-  - [Senior Capstone Research Project]
+  - [Senior Capstone Research Project](https://github.com/clementeramos/LABURLΩΩz)
 - <b>Linear Regression (Sci-kit learn, Seaborn, Data Pipelining)</b>
   - [Real Estate Valuation Regression Model](https://github.com/clementeramos/LABURLΩΩz)
-- <b>Logistic Regression (Feature Engineering, Regex, Model Evaluation)</b>
-  - [Spam & Ham Email Classifier](https://github.com/clementeramos/LABURL) <b><i>(Potentially NSFW)</b></i>
+- <b>Logistic Regression (Sci-kit learn, Matplotlib, Model Evaluation)</b>
+  - [Spam & Ham Email Classifier](https://github.com/clementeramos/LABURL) <b><i>(Potentially NSFW language)</b></i>
 - <b>👨‍💻 Data Engineering</b>
   - [Baseball Hall of Fame: Indexing, Views, CTEs](https://github.com/clementeramos/LABURL)
 - <b>Python</b>
