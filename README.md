@@ -3,8 +3,9 @@
 <h2>📊 Data Science Projects:</h2>
 
 - <b>Bayesian and Frequentist Modeling (PyMC, statsmodels, bambi)</b>
-  - [COVID Infection Risk in Households](https://github.com/clementeramos/LABURLΩΩz) 
-  - [Senior Capstone Research Project](https://github.com/clementeramos/LABURLΩΩz)
+  - [COVID Infection Risk in Households](https://github.com/clementeramos/COVID-Infection-Risk-in-Households) 
+  - [Senior Capstone Research Project](https://github.com/clementeramos/Predicting-CA-Electricity-Demand)
+  - [Bayesian Modeling of MLB Batting](https://github.com/clementeramos/Bayesian-Modeling-of-MLB-Batting-Averages)
 - <b>Linear Regression (Sci-kit learn, Seaborn, Data Pipelining)</b>
   - [Real Estate Valuation Regression Model](https://github.com/clementeramos/LABURLΩΩz)
 - <b>Logistic Regression (Sci-kit learn, Matplotlib, Model Evaluation)</b>
