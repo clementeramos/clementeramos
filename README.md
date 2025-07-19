@@ -1,4 +1,4 @@
-<h1>Hi, I'm Clemente!</h1> Welcome to my portfolio. 
+<h1>Hi, I'm Clemente! Welcome to my portfolio. </h1>
 
 <h2>📊 Data Science Projects:</h2>
 
