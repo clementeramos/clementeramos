@@ -1,4 +1,4 @@
-<h1>Hi, I'm Clemente!</h1>
+<h1>Hi, I'm Clemente!</h1> Welcome to my portfolio. 
 
 <h2>📊 Data Science Projects:</h2>
 
@@ -7,9 +7,9 @@
   - [Senior Capstone Research Project](https://github.com/clementeramos/Predicting-CA-Electricity-Demand)
   - [Bayesian Modeling of MLB Batting](https://github.com/clementeramos/Bayesian-Modeling-of-MLB-Batting-Averages)
 - <b>Linear Regression (Sci-kit learn, Seaborn, Data Pipelining)</b>
-  - [Real Estate Valuation Regression Model](https://github.com/clementeramos/LABURLΩΩz)
+  - [Real Estate Valuation Regression Model](https://github.com/clementeramos/Real-Estate-Valuation-Model)
 - <b>Logistic Regression (Sci-kit learn, Matplotlib, Model Evaluation)</b>
-  - [Spam & Ham Email Classifier](https://github.com/clementeramos/LABURL) <b><i>(Potentially NSFW language)</b></i>
+  - [Spam & Ham Email Classifier](https://github.com/clementeramos/Spam-Ham-Classifier) <b><i>(Potentially NSFW language)</b></i>
 - <b>👨‍💻 Data Engineering</b>
   - [MLB Hall of Fame Analysis: Indexing, Views, Query Optimization](https://github.com/clementeramos/clementeramos/MLB-Hall-of-Fame)
 - <b>Python</b>
