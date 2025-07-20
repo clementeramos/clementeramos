@@ -13,9 +13,7 @@
 - <b>👨‍💻 Data Engineering</b>
   - [MLB Hall of Fame Analysis: Indexing, Views, Query Optimization](https://github.com/clementeramos/clementeramos/MLB-Hall-of-Fame)
 - <b>Python</b>
-  - [Ants vs. SomeBees (Game)](https://github.com/clementeramos/LABURL)
-  - [Voronoi Diagram Bay Area Restaurants (Clustering)](https://github.com/clementeramos/LABURL)
- 
+  - [Ants vs. SomeBees (Game)](https://github.com/clementeramos/Ants) 
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Clemente Ramos | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
