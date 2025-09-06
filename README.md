@@ -4,10 +4,10 @@
 
 - <b>Bayesian and Frequentist Modeling (PyMC, statsmodels, bambi)</b>
   - [COVID Infection Risk in Households](https://github.com/clementeramos/COVID-Infection-Risk-in-Households) 
-  - [Senior Capstone Research Project](https://github.com/clementeramos/Predicting-CA-Electricity-Demand)
-  - [Bayesian Modeling of MLB Batting](https://github.com/clementeramos/Bayesian-Modeling-of-MLB-Batting-Averages)
+  - [Modeling Electricity Consumption Using Weather Data](https://github.com/clementeramos/Predicting-CA-Electricity-Demand)
+  - [Bayesian Modeling of MLB Batting Averages](https://github.com/clementeramos/Bayesian-Modeling-of-MLB-Batting-Averages)
 - <b>Linear Regression (Sci-kit learn, Seaborn, Data Pipelining)</b>
-  - [Real Estate Valuation Regression Model](https://github.com/clementeramos/Real-Estate-Valuation-Model)
+  - [Real Estate Valuation Model](https://github.com/clementeramos/Real-Estate-Valuation-Model)
 - <b>Logistic Regression (Sci-kit learn, Matplotlib, Model Evaluation)</b>
   - [Spam & Ham Email Classifier](https://github.com/clementeramos/Spam-Ham-Classifier) <b><i>(Potentially NSFW language)</b></i>
 - <b>👨‍💻 Data Engineering</b>
