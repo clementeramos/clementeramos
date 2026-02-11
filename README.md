@@ -11,7 +11,7 @@
 - <b>Logistic Regression (Sci-kit learn, Matplotlib, Model Evaluation)</b>
   - [Spam & Ham Email Classifier](https://github.com/clementeramos/Spam-Ham-Classifier) <b><i>(Potentially NSFW language)</b></i>
 - <b>👨‍💻 Data Engineering</b>
-  - [MLB Hall of Fame Analysis: Indexing, Views, Query Optimization](https://github.com/clementeramos/clementeramos/MLB-Hall-of-Fame)
+  - [MLB Hall of Fame Analysis: Indexing, Views, Query Optimization](https://github.com/clementeramos/MLB-Hall-of-Fame)
 - <b>Python</b>
   - [Ants vs. SomeBees (Game)](https://github.com/clementeramos/Ants) 
 <h2> 🤳 Connect with me:</h2>
